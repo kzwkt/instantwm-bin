@@ -3,5 +3,5 @@ apt install -y libx11-dev libxft-dev libxext-dev libharfbuzz-dev libxinerama-dev
 git clone --depth=1 https://github.com/kzwkt/instantWM
 cd instantWM
 make
-make PREFIX="./dwmpkg" install
+make DESTDIR="./dwmpkg" install
 zip -r dwmpkg.zip dwmpkg
