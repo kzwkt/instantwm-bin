@@ -1,3 +1,4 @@
+#####
 apt update -y
 apt install -y libx11-dev libxft-dev  libxinerama-dev zip git gcc make  sed 
 git clone --depth=1 https://github.com/kzwkt/instantWM
