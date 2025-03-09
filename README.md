@@ -8,6 +8,8 @@ configs
 https://github.com/instantOS/dotfiles/tree/main
 
 # Keybindings
+dkeys[] : works on empty root tag(workspace)
+
 | Key       | Action          |
 |-----------|-----------------|
 | `r`       | termfilemanager |
