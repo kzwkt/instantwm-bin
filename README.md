@@ -31,3 +31,4 @@ dkeys[] : works on empty root tag(workspace)
 | XK_1 - XK_9 | view tag 1 -9 |
 
 
+Key keys[] = floating 
