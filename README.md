@@ -24,4 +24,8 @@ https://github.com/instantOS/dotfiles/tree/main
 | `c`       | code            |
 | `y`       |instantmenu_smartrun|
 | `v`       | .quickmenu      |
+| h,l      | view left, right      |
+| k,j      | shift view +1, -1      |
+
+
 
